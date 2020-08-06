@@ -121,7 +121,6 @@ export default class Trap extends React.Component {
     }, 2000);
   }
 
-
   handleButtonClicked() {
     this.setState({
       gameOver: true
@@ -143,10 +142,10 @@ export default class Trap extends React.Component {
     return (
       React.createElement("div", { className: appClass, style: screenStyle },
         React.createElement("section", { className: "container" },
-          React.createElement("h1", null, "Hi There!"),
+          React.createElement("h1", null, "Hi There! 👋🏻"),
           React.createElement("h2", null, "Welcome to a frontend testing."),
           React.createElement("p", null, "This is a classic website, no traps or weird stuff!"),
-          React.createElement("p", null, "Could you do a test to see if everything is working fine here, I don't know, for example the button down there?"),
+          React.createElement("p", null, "Can you test if everything is working fine here, I don't know, for example the button down there?"),
 
           // React.createElement("button", {
           //   className: "debug-button",

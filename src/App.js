@@ -1,8 +1,6 @@
 import React from 'react';
 import Trap from './Trap';
 
-
-
 const App = () => {
   return (
     <div style={styles.div}>
@@ -10,12 +8,10 @@ const App = () => {
       <div style={styles.indiv}>
         <a
           href="https://codepen.io/bnhovde/pen/OJLYGKx"
-          target="_blank"
           style={styles.link}
         ><p className="footer_link_text">Credit: Bard Hovde</p>
         </a><a
           href="https://github.com/mgunsd/NoWeirdStuff"
-          target="_blank"
           style={styles.link}
         ><p className="footer_link_text">Repo</p>
         </a>
