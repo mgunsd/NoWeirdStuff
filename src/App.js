@@ -1,24 +1,14 @@
 import React, { useState, useRef, useEffect, useLayoutEffect, createContext } from 'react';
 import './App.scss';
-
-/**
-                                                                                * Globals
-                                                                                */
-
-const CONSTANTS = {
-  assetPath: `https://github.com/mgunsd/NoWeirdStuff/blob/master/src/assets/`
-};
+import head from './assets/head.svg';
+import waiting from './assets/hand.svg';
+import stalking from './assets/hand-waiting.svg';
+import grabbing from './assets/hand.svg';
+import grabbed from './assets/hand-with-cursor.svg';
+import shaka from './assets/hand-surfs-up.svg';
 
 
-const ASSETS = {
-  head: 'https://drive.google.com/file/d/1QgsxAG84mGPlbCoQE-k9kO6-sIzJQO4B/view?usp=sharing',
-  waiting: `${CONSTANTS.assetPath}/hand.svg`,
-  stalking: `${CONSTANTS.assetPath}/hand-waiting.svg`,
-  grabbing: `${CONSTANTS.assetPath}/hand.svg`,
-  grabbed: `${CONSTANTS.assetPath}/hand-with-cursor.svg`,
-  shaka: `${CONSTANTS.assetPath}/hand-surfs-up.svg`
-};
-
+const ASSETS = { head, waiting, stalking, grabbing, grabbed, shaka }
 
 // Preload images
 Object.keys(ASSETS).forEach(key => {
@@ -153,15 +143,17 @@ export default class App extends React.Component {
     return (
       React.createElement("div", { className: appClass, style: screenStyle },
         React.createElement("section", { className: "container" },
-          React.createElement("h1", null, "Hello!"),
-          React.createElement("h2", null, "Welcome to the internet."),
+          React.createElement("h1", null, "Hi There!"),
+          React.createElement("h2", null, "Welcome to a frontend testing."),
           React.createElement("p", null, "This is a classic website, no traps or weird stuff!"),
-          React.createElement("p", null, "Feel free to browse, relax and, I don't know, click the button down there? Might as well, right?"),
+          React.createElement("p", null, "Could you do a test if everything is working here, I don't know, for example the button down there?"),
 
-          React.createElement("button", {
-            className: "debug-button",
-            onClick: this.handleToggleDebug
-          }, "Debug")),
+          // React.createElement("button", {
+          //   className: "debug-button",
+          //   onClick: this.handleToggleDebug
+          // }, "Debug")
+
+        ),
 
 
 
