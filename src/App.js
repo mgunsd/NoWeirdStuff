@@ -11,7 +11,7 @@ const CONSTANTS = {
 
 
 const ASSETS = {
-  head: `${CONSTANTS.assetPath}/head.svg`,
+  head: 'https://drive.google.com/file/d/1QgsxAG84mGPlbCoQE-k9kO6-sIzJQO4B/view?usp=sharing',
   waiting: `${CONSTANTS.assetPath}/hand.svg`,
   stalking: `${CONSTANTS.assetPath}/hand-waiting.svg`,
   grabbing: `${CONSTANTS.assetPath}/hand.svg`,
