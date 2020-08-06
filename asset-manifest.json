@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NoWeirdStuff/static/css/main.2822df01.chunk.css",
+    "main.js": "/NoWeirdStuff/static/js/main.37f01ce7.chunk.js",
+    "main.js.map": "/NoWeirdStuff/static/js/main.37f01ce7.chunk.js.map",
+    "runtime-main.js": "/NoWeirdStuff/static/js/runtime-main.c9c381bd.js",
+    "runtime-main.js.map": "/NoWeirdStuff/static/js/runtime-main.c9c381bd.js.map",
+    "static/js/2.ea7cf3f8.chunk.js": "/NoWeirdStuff/static/js/2.ea7cf3f8.chunk.js",
+    "static/js/2.ea7cf3f8.chunk.js.map": "/NoWeirdStuff/static/js/2.ea7cf3f8.chunk.js.map",
+    "index.html": "/NoWeirdStuff/index.html",
+    "precache-manifest.7829870851ad77dc36eadb5a4624d14c.js": "/NoWeirdStuff/precache-manifest.7829870851ad77dc36eadb5a4624d14c.js",
+    "service-worker.js": "/NoWeirdStuff/service-worker.js",
+    "static/css/main.2822df01.chunk.css.map": "/NoWeirdStuff/static/css/main.2822df01.chunk.css.map",
+    "static/js/2.ea7cf3f8.chunk.js.LICENSE.txt": "/NoWeirdStuff/static/js/2.ea7cf3f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9c381bd.js",
+    "static/js/2.ea7cf3f8.chunk.js",
+    "static/css/main.2822df01.chunk.css",
+    "static/js/main.37f01ce7.chunk.js"
+  ]
+}
