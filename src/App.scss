@@ -10,7 +10,8 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
   line-height: 1.45;
-  color: #0f1108;
+  //color: #0f1108;
+  color: #f2efe8;
 }
 
 h1 {
@@ -45,9 +46,9 @@ p {
 }
 
 a {
-  color: #0f1108;
+  color: #2c2a2a;
   text-decoration: none;
-  border-bottom: currentcolor 1px solid;
+  //border-bottom: currentcolor 1px solid;
 }
 
 // General modules
@@ -65,11 +66,12 @@ a {
 // Full-screen wrapper
 .app {
   position: relative;
-  background: #f2e9de;
+  background: #2c2a2a;
+  //background: #f2e9de;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: calc(100vh - 2rem);
+  min-height: calc(95vh - 2rem);
   margin: 1rem;
   overflow: hidden;
 
@@ -141,7 +143,8 @@ a {
     position: relative;
     width: 24px;
     height: 200px;
-    background: #7d9a9e;
+    //background: #7d9a9e;
+    background: #f2efe8;
     border-radius: 20px;
     overflow: visible;
     transform: translateY(100%);
@@ -152,6 +155,7 @@ a {
     display: block;
     position: absolute;
     top: -12px;
+    left: -12px;
     transform: scale(1.4) rotate(-10deg) translateY(100%);
     transform-origin: bottom center;
     transition: transform 0.3s ease;
@@ -172,7 +176,7 @@ a {
     width: 110px;
     height: 95px;
     border-radius: 50%;
-    background: #7d9a9e;
+    background: #f2efe8;
     transition: transform 0.3s ease;
   }
 
@@ -271,8 +275,8 @@ a {
   bottom: 80px;
   right: 70px;
   min-width: 125px;
-  background: #8ecacc;
-  color: white;
+  background: #08d9d6;
+  color: #2c2a2a;
   border-radius: 5px;
   padding: 0.4rem 0.5rem;
   font-weight: 600;
