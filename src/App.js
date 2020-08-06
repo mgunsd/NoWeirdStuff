@@ -6,7 +6,7 @@ import './App.scss';
                                                                                 */
 
 const CONSTANTS = {
-  assetPath: `https://github.com/mgunsd/NoWeirdStuff/tree/master/src/assets/`
+  assetPath: `https://github.com/mgunsd/NoWeirdStuff/blob/master/src/assets/`
 };
 
 
