@@ -1,32 +1,22 @@
 import React, { useState, useRef, useEffect, useLayoutEffect, createContext } from 'react';
 import './App.scss';
-import { head, waiting, stalking, grabbing, grabbed, shaka } from './assets';
-
 
 /**
                                                                                 * Globals
                                                                                 */
 
 const CONSTANTS = {
-  assetPath: `./assets/`
+  assetPath: `https://github.com/mgunsd/NoWeirdStuff/tree/master/src/assets`
 };
 
 
 const ASSETS = {
-  waiting: waiting, stalking: stalking, grabbing: grabbing, grabbed: grabbed, shaka: shaka,
-  // waiting, stalking, grabbing, grabbed, shaka,
-  head: `./assets/head.svg`,
-  // waiting: `${CONSTANTS.assetPath}/hand.svg`,
-  // stalking: `${CONSTANTS.assetPath}/hand-waiting.svg`,
-  // grabbing: `${CONSTANTS.assetPath}/hand.svg`,
-  // grabbed: `${CONSTANTS.assetPath}/hand-with-cursor.svg`,
-  // shaka: `${CONSTANTS.assetPath}/hand-surfs-up.svg`
-  // head: `${CONSTANTS.assetPath}/head.svg`,
-  // waiting: `${CONSTANTS.assetPath}/hand.svg`,
-  // stalking: `${CONSTANTS.assetPath}/hand-waiting.svg`,
-  // grabbing: `${CONSTANTS.assetPath}/hand.svg`,
-  // grabbed: `${CONSTANTS.assetPath}/hand-with-cursor.svg`,
-  // shaka: `${CONSTANTS.assetPath}/hand-surfs-up.svg`
+  head: `${CONSTANTS.assetPath}/head.svg`,
+  waiting: `${CONSTANTS.assetPath}/hand.svg`,
+  stalking: `${CONSTANTS.assetPath}/hand-waiting.svg`,
+  grabbing: `${CONSTANTS.assetPath}/hand.svg`,
+  grabbed: `${CONSTANTS.assetPath}/hand-with-cursor.svg`,
+  shaka: `${CONSTANTS.assetPath}/hand-surfs-up.svg`
 };
 
 
