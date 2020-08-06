@@ -154,9 +154,9 @@ a {
   &__hand {
     display: block;
     position: absolute;
-    top: -12px;
-    left: -12px;
-    transform: scale(1.4) rotate(-10deg) translateY(100%);
+    top: -15px;
+    left: -15px;
+    transform: scale(1.2) rotate(-10deg) translateY(100%);
     transform-origin: bottom center;
     transition: transform 0.3s ease;
   }
@@ -183,7 +183,7 @@ a {
   // Modifiers
   &--waiting {
     .grabber__hand {
-      transform: scale(1.4) rotate(-10deg);
+      transform: scale(1.2) rotate(-10deg);
     }
     .grabber__arm {
       transform: translateY(80%);
@@ -196,7 +196,7 @@ a {
   // Modifiers
   &--stalking {
     .grabber__hand {
-      transform: scale(1.4) rotate(-10deg);
+      transform: scale(1.2) rotate(-10deg);
     }
     .grabber__arm {
       transform: translateY(70%);
@@ -217,7 +217,7 @@ a {
       transform: translateY(-20%);
     }
     .grabber__hand {
-      transform: scale(1.7) rotate(10deg);
+      transform: scale(1.2) rotate(10deg);
     }
   }
 

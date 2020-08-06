@@ -31,12 +31,13 @@ const styles = {
     minHeight: '100vh',
   },
   link: {
+    fontSize: '0.7rem',
   },
   indiv: {
     display: 'flex',
     flexDirection: 'row',
-    marginRight: "3vh",
-    marginLeft: "3vh",
+    marginRight: "4vh",
+    marginLeft: "4vh",
     marginTop: "-2vh",
     marginBottom: "0",
     justifyContent: 'space-between',
