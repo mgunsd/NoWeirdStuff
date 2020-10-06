@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/NoWeirdStuff/static/css/main.fda1c2fd.chunk.css",
-    "main.js": "/NoWeirdStuff/static/js/main.f6421108.chunk.js",
-    "main.js.map": "/NoWeirdStuff/static/js/main.f6421108.chunk.js.map",
-    "runtime-main.js": "/NoWeirdStuff/static/js/runtime-main.c9c381bd.js",
-    "runtime-main.js.map": "/NoWeirdStuff/static/js/runtime-main.c9c381bd.js.map",
-    "static/js/2.07b93143.chunk.js": "/NoWeirdStuff/static/js/2.07b93143.chunk.js",
-    "static/js/2.07b93143.chunk.js.map": "/NoWeirdStuff/static/js/2.07b93143.chunk.js.map",
+    "main.js": "/NoWeirdStuff/static/js/main.25ececdd.chunk.js",
+    "main.js.map": "/NoWeirdStuff/static/js/main.25ececdd.chunk.js.map",
+    "runtime-main.js": "/NoWeirdStuff/static/js/runtime-main.a83ddfbd.js",
+    "runtime-main.js.map": "/NoWeirdStuff/static/js/runtime-main.a83ddfbd.js.map",
+    "static/js/2.d931b520.chunk.js": "/NoWeirdStuff/static/js/2.d931b520.chunk.js",
+    "static/js/2.d931b520.chunk.js.map": "/NoWeirdStuff/static/js/2.d931b520.chunk.js.map",
     "index.html": "/NoWeirdStuff/index.html",
-    "precache-manifest.185ab9e873a3cbd9dd5ac9cb09d0c6b6.js": "/NoWeirdStuff/precache-manifest.185ab9e873a3cbd9dd5ac9cb09d0c6b6.js",
+    "precache-manifest.0aae4c9e22030aca30d49a5f5dbbcae8.js": "/NoWeirdStuff/precache-manifest.0aae4c9e22030aca30d49a5f5dbbcae8.js",
     "service-worker.js": "/NoWeirdStuff/service-worker.js",
     "static/css/main.fda1c2fd.chunk.css.map": "/NoWeirdStuff/static/css/main.fda1c2fd.chunk.css.map",
-    "static/js/2.07b93143.chunk.js.LICENSE.txt": "/NoWeirdStuff/static/js/2.07b93143.chunk.js.LICENSE.txt",
+    "static/js/2.d931b520.chunk.js.LICENSE.txt": "/NoWeirdStuff/static/js/2.d931b520.chunk.js.LICENSE.txt",
     "static/media/hand-surfs-up.svg": "/NoWeirdStuff/static/media/hand-surfs-up.40c9faa0.svg",
     "static/media/hand-waiting.svg": "/NoWeirdStuff/static/media/hand-waiting.58d60422.svg",
     "static/media/hand-with-cursor.svg": "/NoWeirdStuff/static/media/hand-with-cursor.1c9461d3.svg",
@@ -19,9 +19,9 @@
     "static/media/head.svg": "/NoWeirdStuff/static/media/head.ddea961c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9c381bd.js",
-    "static/js/2.07b93143.chunk.js",
+    "static/js/runtime-main.a83ddfbd.js",
+    "static/js/2.d931b520.chunk.js",
     "static/css/main.fda1c2fd.chunk.css",
-    "static/js/main.f6421108.chunk.js"
+    "static/js/main.25ececdd.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c1751f1cf7743289476b2d74f12d7e3",
+    "revision": "ab0f9c78b80dfe25ba31e5ead017a4ce",
     "url": "/NoWeirdStuff/index.html"
   },
   {
-    "revision": "d40b19469bc0c5f5aed0",
+    "revision": "b9701ebe0b15ef6f7093",
     "url": "/NoWeirdStuff/static/css/main.fda1c2fd.chunk.css"
   },
   {
-    "revision": "3df502b148d4800f37be",
-    "url": "/NoWeirdStuff/static/js/2.07b93143.chunk.js"
+    "revision": "6a8526e3d89a11415ddb",
+    "url": "/NoWeirdStuff/static/js/2.d931b520.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/NoWeirdStuff/static/js/2.07b93143.chunk.js.LICENSE.txt"
+    "url": "/NoWeirdStuff/static/js/2.d931b520.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d40b19469bc0c5f5aed0",
-    "url": "/NoWeirdStuff/static/js/main.f6421108.chunk.js"
+    "revision": "b9701ebe0b15ef6f7093",
+    "url": "/NoWeirdStuff/static/js/main.25ececdd.chunk.js"
   },
   {
-    "revision": "1193240e7d9f0f70815b",
-    "url": "/NoWeirdStuff/static/js/runtime-main.c9c381bd.js"
+    "revision": "2154d57aef960963f6bf",
+    "url": "/NoWeirdStuff/static/js/runtime-main.a83ddfbd.js"
   },
   {
     "revision": "40c9faa0467f1eb25c5595a153e511e7",
