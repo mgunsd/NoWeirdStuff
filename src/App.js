@@ -9,8 +9,9 @@ const App = () => {
         <a
           href="https://codepen.io/bnhovde/pen/OJLYGKx"
           style={styles.link}
-        ><p className="footer_link_text">Credit: Bard Hovde</p>
-        </a><a
+        ><p className="footer_link_text">A fun React app inspired by Bard Hovde</p>
+        </a>
+        <a
           href="https://github.com/mgunsd/NoWeirdStuff"
           style={styles.link}
         ><p className="footer_link_text">Repo</p>
