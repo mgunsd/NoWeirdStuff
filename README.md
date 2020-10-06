@@ -1,3 +1,5 @@
-## No weird stuff for testers 🤗
+## No weird stuff 🤗
 
-- Credit: Click the Button by [Bard Hovde](https://codepen.io/bnhovde/pen/OJLYGKx)
+### [Click to see live](https://mgunsd.github.io/NoWeirdStuff/)
+
+- A fun React app inspired by css codepen by [Bard Hovde](https://codepen.io/bnhovde/pen/OJLYGKx)
